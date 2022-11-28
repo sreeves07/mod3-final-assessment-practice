@@ -1,6 +1,6 @@
 # Mod 3 Practice Assessment
 
-This project will utilize the [Studio Ghibli API](https://ghibliapi.herokuapp.com/) to display information related to the Species content created by Studio Ghibli
+This project will utilize the [Studio Ghibli API](https://ghibliapi.herokuapp.com/) to display information related to the Species data created by Studio Ghibli
 
 ## Part 1
 
