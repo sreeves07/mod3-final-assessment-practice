@@ -19,14 +19,14 @@
 - [ ] User should be able to click a button 'Hide' and hide all of the data if the data is being rendered
 - [ ] User should be able to click 'Show' if the data is hidden and see all of the species data
 
-### Create an <hr> to separate this next part from the previous part
+### Create a horizontal rule `<hr>` to separate this next part from the previous part
 
 ## Part 4
 
 - [ ] User should see a dropdown of species names
 - [ ] User should be able to click on a species name from the dropdown and see the 'Name' and 'Hair Color' rendered on the page
 
-### Create an <hr> to separate this next part from the previous part
+### Create a horizontal rule `<hr>` to separate this next part from the previous part
 
 ## Part 5
 
