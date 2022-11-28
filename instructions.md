@@ -7,19 +7,26 @@
 
 ## Part 2
 
-- [ ] user should be able to see Navbar so that the user can click on either a link to both Home and Main page
-- [ ] user should see 'Main' when clicking on the Main link
+- [ ] User is able to see Navbar at the top of the page
+- [ ] User can click Home and see 'Welcome to the Home Page'
+- [ ] User can click on Main link and see 'Main'
+
+### Everything from here forward will be executed in the `Main.js` component
 
 ## Part 3
 
-- [ ] User should be able click on the Main Link in the Navbar and see the 'Name' and 'ID' of every species in the Species data
+- [ ] User should be able click on the Main Link in the Navbar and see the 'Name' and 'ID' of every species from the Species data rendered on the page
 - [ ] User should be able to click a button 'Hide' and hide all of the data if the data is being rendered
-- [ ] User should be able to click 'Show' if the data is hidden
+- [ ] User should be able to click 'Show' if the data is hidden and see all of the species data
+
+### Create an <hr> to separate this next part from the previous part
 
 ## Part 4
 
 - [ ] User should see a dropdown of species names
 - [ ] User should be able to click on a species name from the dropdown and see the 'Name' and 'Hair Color' rendered on the page
+
+### Create an <hr> to separate this next part from the previous part
 
 ## Part 5
 
