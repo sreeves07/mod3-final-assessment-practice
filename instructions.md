@@ -3,7 +3,7 @@
 ## Part 1
 
 - [ ] User can access the Home page via the '/' route
-- [ ] Text from Home page should be 'Welcome to the Home Page'
+- [ ] User sees 'Welcome to the Home Page' when viewing the Home page
 
 ## Part 2
 
